@@ -13,7 +13,6 @@ Inspired by [elly's site](http://tilde.town/~elly/), expressly created for [my p
 * Light, dark and auto modes
 * Responsive
 * Content first (typography optimized for maximum readability)
-* SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))
 * RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
 * Fully compatible with [GitHub Pages](https://pages.github.com/) (see [GitHub Pages installation](#github-pages-installation))
 
