@@ -84,8 +84,12 @@ td {
   padding: 0.4rem;
 }
 code {
-  color: white;
-  background: black;
+  color: black;
+  background: white;
+}
+figure.highlight {
+  margin-left: 0px;
+  margin-right: 0px;
 }
 div.highlighter-rouge code {
   display: block;

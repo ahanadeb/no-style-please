@@ -27,3 +27,6 @@ plugins:
   - jekyll-feed
   - jektex
   - jekyll-tidy
+
+markdown: kramdown
+highlighter: rouge
