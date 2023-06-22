@@ -25,4 +25,5 @@ sass:
 
 plugins:
   - jekyll-feed
-
+  - jektex
+  - jekyll-tidy
