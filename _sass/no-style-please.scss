@@ -106,6 +106,9 @@ div.highlighter-rouge code {
   white-space: pre-wrap;
   padding: 1rem;
 }
+.katex-display {
+  overflow: clip;
+}
 blockquote {
   font-style: italic;
   border: thin solid black;
