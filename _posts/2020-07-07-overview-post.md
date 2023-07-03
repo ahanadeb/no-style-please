@@ -57,6 +57,13 @@ const ultimateTruth = 'this theme is the best!';
 console.log(ultimateTruth);
 ```
 
+Code with syntax highlighting
+{% highlight python linenos %}
+def test(x):
+    y = x + 5
+    return sqrt( y )
+{% endhighlight %}
+
 And here is some `inline code`!
 
 ## Tables
