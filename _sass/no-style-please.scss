@@ -97,6 +97,8 @@ code.language-plaintext {
 figure.highlight {
   margin-left: 0px;
   margin-right: 0px;
+  overflow: clip;
+  background-color: unset;
 }
 div.highlighter-rouge code {
   display: block;
